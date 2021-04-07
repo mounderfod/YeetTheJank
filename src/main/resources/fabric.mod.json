@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "YeetTheJank",
+  "version": "${version}",
+  "name": "YeetTheJank",
+  "description": "Fixes a variety of bugs in Minecraft.",
+  "authors": [
+    "mounderfod"
+  ],
+  "contact": {
+    "repo": "https://github.com/redcreeper14385/YeetTheJank"
+  },
+  "license": "MIT",
+  "icon": "assets/YeetTheJank/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "mounderfod.yeetthemojank.client.YeetTheMojankClient"
+    ],
+    "main": [
+      "mounderfod.yeetthemojank.YeetTheMojank"
+    ]
+  },
+  "mixins": [
+    "YeetTheJank.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  }
+}
