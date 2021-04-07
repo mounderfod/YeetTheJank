@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "YeetTheJank",
+  "id": "yeetthejank",
   "version": "${version}",
   "name": "YeetTheJank",
   "description": "Fixes a variety of bugs in Minecraft.",
@@ -15,10 +15,10 @@
   "environment": "*",
   "entrypoints": {
     "client": [
-      "mounderfod.yeetthemojank.client.YeetTheMojankClient"
+      "mounderfod.yeetthejank.client.YeetTheJankClient"
     ],
     "main": [
-      "mounderfod.yeetthemojank.YeetTheMojank"
+      "mounderfod.yeetthejank.YeetTheJank"
     ]
   },
   "mixins": [

@@ -1,0 +1,9 @@
+{
+  "subtitles.entity.turtle.hurt_baby": "Baby turtle hurts",
+  "subtitles.entity.turtle.death_baby": "Baby turtle dies",
+  "subtitles.entity.turtle.shamble_baby": "Baby turtle shambles",
+  "subtitles.entity.wolf.ambient": "Wolf barks/whines/pants",
+  "structure_block.mode_info.load": "Load Mode - Load from File",
+  "structure_block.mode_info.data": "Data Mode - Game Logic Marker",
+  "death.fell.accident.water": "%1$s hit the water too hard"
+}
