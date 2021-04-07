@@ -4,6 +4,7 @@
   "package": "mounderfod.yeetthejank.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "FleeEntityGoalMixin"
   ],
   "client": [
   ],
