@@ -16,3 +16,4 @@ Fixing Minecraft, one bug at a time. Made for the Fabric loader, but does not re
 [MC-199981: Wandering traders are afraid of zombified piglins](https://bugs.mojang.com/projects/MC/issues/MC-199981)
 <br>
 <br>
+![](https://i.imgur.com/77kxz8x.png)
